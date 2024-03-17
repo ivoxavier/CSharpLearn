@@ -42,7 +42,7 @@
             this.rbIndependente = new System.Windows.Forms.RadioButton();
             this.rbFullTime = new System.Windows.Forms.RadioButton();
             this.rbPartime = new System.Windows.Forms.RadioButton();
-            this.rbFeminino = new System.Windows.Forms.GroupBox();
+            this.rbFeminino = new System.Windows.Forms.RadioButton();
             this.groupBox1.SuspendLayout();
             this.rbFeminino.SuspendLayout();
             this.SuspendLayout();
@@ -232,6 +232,6 @@
         private System.Windows.Forms.RadioButton rbIndependente;
         private System.Windows.Forms.RadioButton rbFullTime;
         private System.Windows.Forms.RadioButton rbPartime;
-        private System.Windows.Forms.GroupBox rbFeminino;
+        private System.Windows.Forms.RadioButton rbFeminino;
     }
 }

@@ -12,3 +12,17 @@ C:\Users\Ivo Xavier\source\repos\Solucao02\Win02\obj\Debug\Win02.pdb
 C:\Users\Ivo Xavier\source\repos\Solucao02\Win02\obj\Debug\Win02.CadastroFuncionario.resources
 C:\Users\Ivo Xavier\source\repos\Solucao02\Win02\bin\Debug\System.Data.SqlServerCe.dll
 C:\Users\Ivo Xavier\source\repos\Solucao02\Win02\obj\Debug\Win02.csproj.CopyComplete
+C:\Users\Ivo Xavier\Documents\GitHub\CSharpLearn\Win02\bin\Debug\DataBase\bancoDados.sdf
+C:\Users\Ivo Xavier\Documents\GitHub\CSharpLearn\Win02\bin\Debug\Win02.exe.config
+C:\Users\Ivo Xavier\Documents\GitHub\CSharpLearn\Win02\bin\Debug\Win02.exe
+C:\Users\Ivo Xavier\Documents\GitHub\CSharpLearn\Win02\bin\Debug\Win02.pdb
+C:\Users\Ivo Xavier\Documents\GitHub\CSharpLearn\Win02\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Ivo Xavier\Documents\GitHub\CSharpLearn\Win02\obj\Debug\Win02.csproj.AssemblyReference.cache
+C:\Users\Ivo Xavier\Documents\GitHub\CSharpLearn\Win02\obj\Debug\Win02.CadastroFuncionario.resources
+C:\Users\Ivo Xavier\Documents\GitHub\CSharpLearn\Win02\obj\Debug\Win02.Properties.Resources.resources
+C:\Users\Ivo Xavier\Documents\GitHub\CSharpLearn\Win02\obj\Debug\Win02.TelaPrincipal.resources
+C:\Users\Ivo Xavier\Documents\GitHub\CSharpLearn\Win02\obj\Debug\Win02.csproj.GenerateResource.cache
+C:\Users\Ivo Xavier\Documents\GitHub\CSharpLearn\Win02\obj\Debug\Win02.csproj.CoreCompileInputs.cache
+C:\Users\Ivo Xavier\Documents\GitHub\CSharpLearn\Win02\obj\Debug\Win02.csproj.CopyComplete
+C:\Users\Ivo Xavier\Documents\GitHub\CSharpLearn\Win02\obj\Debug\Win02.exe
+C:\Users\Ivo Xavier\Documents\GitHub\CSharpLearn\Win02\obj\Debug\Win02.pdb

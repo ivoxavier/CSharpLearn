@@ -53,6 +53,7 @@
             this.btnEditar.TabIndex = 1;
             this.btnEditar.Text = "Editar";
             this.btnEditar.UseVisualStyleBackColor = true;
+            this.btnEditar.Click += new System.EventHandler(this.EditarAction);
             // 
             // btnExcluir
             // 
@@ -62,6 +63,7 @@
             this.btnExcluir.TabIndex = 2;
             this.btnExcluir.Text = "Excluir";
             this.btnExcluir.UseVisualStyleBackColor = true;
+            this.btnExcluir.Click += new System.EventHandler(this.ExcluirAction);
             // 
             // dgvTabelaFuncionario
             // 
@@ -73,6 +75,7 @@
             this.dgvTabelaFuncionario.Name = "dgvTabelaFuncionario";
             this.dgvTabelaFuncionario.RowHeadersWidth = 82;
             this.dgvTabelaFuncionario.RowTemplate.Height = 33;
+            this.dgvTabelaFuncionario.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvTabelaFuncionario.Size = new System.Drawing.Size(1572, 731);
             this.dgvTabelaFuncionario.TabIndex = 3;
             // 
